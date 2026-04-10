@@ -1,0 +1,12 @@
+.env
+venv/
+.venv/
+data/raw/
+data/processed/
+__pycache__/
+*.pyc
+*.dll
+*.lib
+*.pth
+*.egg-info
+*.dist-info
