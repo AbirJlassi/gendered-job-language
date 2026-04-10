@@ -1,4 +1,4 @@
-# 🔍 Gendered Language in Job Postings: A Data-Driven Audit
+#  Gendered Language in Job Postings: A Data-Driven Audit
 
 > *"Before an ATS screens your CV, the job posting already screened you.
 > Biased language → fewer applications → biased training data → biased ATS.
