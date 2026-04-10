@@ -136,7 +136,7 @@ jupyter notebook notebooks/
 
 ---
 
-## 🔮 Next Steps
+## Next Steps
 
 - [ ] **BERT-based classifier** : moving beyond keyword matching to contextual understanding
 - [ ] **Temporal analysis** : tracking language evolution year over year
@@ -147,7 +147,7 @@ jupyter notebook notebooks/
 
 ## About
 
-Built by **Abir** — Data Science engineering student
+Built by **Abir** - Data Science engineering student
 
 ---
 
